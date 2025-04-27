@@ -1,2 +1,6 @@
-# mtech
-All my research and learning from mtech will be saved here
+### mtech
+- Sem-01
+- Sem-02
+- Sem-03
+- Sem-04
+
